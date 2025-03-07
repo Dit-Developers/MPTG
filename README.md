@@ -1,5 +1,9 @@
 # Advanced Mobile Penetration Testing Guide
 
+<p align="center">
+    <img src="png-clipart-software-testing-computer-icons-software-bug-computer-software-test-automation-software-miscellaneous-logo.png" alt="Advanced Mobile Penetration Testing" width="150" height="150" style="border-radius: 50%;">
+</p>
+
 ## Introduction
 
 Mobile penetration testing is an essential domain in cybersecurity, enabling security professionals to identify vulnerabilities within mobile applications and devices. With the increasing use of smartphones for sensitive transactions, ensuring mobile security is paramount. This guide delves into advanced penetration testing methodologies, focusing on Android exploitation using the Android Debug Bridge (ADB), Metasploit Framework, and various persistence mechanisms.
